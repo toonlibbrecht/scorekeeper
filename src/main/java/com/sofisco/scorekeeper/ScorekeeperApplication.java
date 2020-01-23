@@ -3,6 +3,11 @@ package com.sofisco.scorekeeper;
 
 import java.util.Scanner;
 
+/**
+ * commitandrun
+ * @author toli luse
+ *
+ */
 public class ScorekeeperApplication {
 
     public static void main(String[] args) {
